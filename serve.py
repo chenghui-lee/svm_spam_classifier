@@ -16,8 +16,9 @@ def index():
 def upload():
     text = request.form['text']
     p = model.predict(text)
-    print(text, p)
-    return 'spam' if p else 'not spam'
+    res = 'Urh! The message is a spam.' if p else 'Hooray! The message is not a spam.'
+    flash(res)
+    return index()
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8000)

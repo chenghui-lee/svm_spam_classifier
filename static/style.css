@@ -1,0 +1,48 @@
+body{
+    background: rgba(0,0,0,0.9);
+  }
+.head{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 80px;
+}
+.desc{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+.author{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+}
+p.message{
+    font-family: 'Roboto', sans-serif;
+    text-align: center !important;
+    color: #fff !important;
+    font-size: 20px;
+}
+.alert{
+    font-family: 'Roboto', sans-serif;
+    text-align: center !important;
+    font-size: 20px;
+    max-width: 500px;
+    margin:auto;
+}
+#picture{
+    max-width: 150px !important;
+    max-height: 150px !important;
+}
+.card-img-top {
+  max-width: 150px;
+  max-height: 150px;
+  object-fit: cover;
+}
+.card-text {
+  font-size: 18px;
+}
+
+
