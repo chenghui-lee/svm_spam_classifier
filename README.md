@@ -1,6 +1,6 @@
 # svm_spam_classifier
 SVM Spam Classifier is a Spam Classifier built on [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine).
-
+![homepage](/homepage.jpg)
 ## Installation
 - Clone this repository
 ```
