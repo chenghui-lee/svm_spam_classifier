@@ -4,7 +4,7 @@ SVM Spam Classifier is a Spam Classifier built on [Support Vector Machine](https
 ## Installation
 - Clone this repository
 ```
-git clone https://github.com/chenghui-lee
+git clone https://github.com/chenghui-lee/svm_spam_classifier
 ```
 - Create Virtual Environment (venv) with the name venv
 ```
