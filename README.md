@@ -29,7 +29,7 @@ pip freeze > requirements.txt
 
 ## Run the program
 ```
-python serve.py
+python app.py
 ```
 
 ## License
