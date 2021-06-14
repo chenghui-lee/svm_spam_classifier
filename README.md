@@ -3,7 +3,7 @@ SVM Spam Classifier is a Spam Classifier built on [Support Vector Machine](https
 ![homepage](/homepage.jpg)
 
 ## Demonstration
-The demo can be accessed at [spam.lchenghui.com](http://spam.lchenghui.com).
+The demo can be accessed at [here](http://spam.lchenghui.com).
 
 ## Installation
 - Clone this repository
