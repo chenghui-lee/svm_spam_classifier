@@ -19,6 +19,12 @@ body{
     color: #fff;
     font-size: 13px;
 }
+.privacy{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+}
 p.message{
     font-family: 'Roboto', sans-serif;
     text-align: center !important;
