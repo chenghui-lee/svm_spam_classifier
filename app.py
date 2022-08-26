@@ -5,7 +5,7 @@ import io
 import predict as model
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '12345'
+app.config['SECRET_KEY'] = 'lksm2ns0ma-sks1ns9sna0-sma9qmsm-ams9nnxba12-1283058720x'
 
 
 @app.route("/")
@@ -21,4 +21,4 @@ def upload():
     return index()
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=8000)
+    app.run(host='0.0.0.0', port=8000)
